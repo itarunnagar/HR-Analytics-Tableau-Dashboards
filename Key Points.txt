@@ -1,0 +1,5 @@
+KPI :- Total Employe , Attrition Cnt , Attrition % , 
+Gender Lollilop Chart..Color Code :-Female : #ffbb78 Male : #9467bd
+Custom Size :- 1580 by 900
+Chrat Title is Semi Bold And Yellow Color..
+Donut Chart Color Code :- #2F5597   
